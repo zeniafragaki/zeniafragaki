@@ -10,4 +10,9 @@ My major areas of interest are
 - Designing digital sensors
 - Computation Intelligence 
 
+Mostly working with
+
+-MATLAB and Simulink
+-Python
+
 
