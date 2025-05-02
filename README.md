@@ -1,11 +1,8 @@
 ## Hi there 👋
 
-<<!--
-**zeniafragaki/zeniafragaki** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+I am 10th semester Biomedical Engineering student at University of West Attica and member of IEEE SB as well. I am really interested in research with primary topics biomedical (and non) control systems , optimization and mathematical modeling of real-world dynamic systems and computational intelligence techniques.Also , currently working on Tzaneio General Hospital as biomedical engineer and specific at sleep study devices part. 
 
-Here are some ideas to get you started:
-
-- 🔭 I’m currently working on ...
+- I’m currently working on my Thesis project focused on automatic control and computational intelligence on Artificial Pancreas systems
 - 🌱 I’m currently learning ...
 - 👯 I’m looking to collaborate on ...
 - 🤔 I’m looking for help with ...
