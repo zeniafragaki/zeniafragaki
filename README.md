@@ -27,6 +27,6 @@ As the final stage of my undergraduate studies, I am currently undertaking my Th
 
 
 I am highly motivated to contribute to innovative research projects, participate in interdisciplinary collaborations, and constantly expand my knowledge across the fields of control systems, artificial intelligence, and biomedical technologies.  
-Feel free to connect with me to discuss potential collaborations, research opportunities, or technology initiatives!
+
 
 
