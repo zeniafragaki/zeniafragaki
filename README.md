@@ -12,7 +12,7 @@ My major areas of interest are
 
 Mostly working with
 
--MATLAB and Simulink
--Python
+- MATLAB and Simulink
+- Python
 
 
