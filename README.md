@@ -21,10 +21,9 @@ As the final stage of my undergraduate studies, I am currently undertaking my Th
 - Python for machine learning, data analysis
 - Familiarity with SQL, and AVR programming for embedded biomedical applications
 
-  ## 🧠 Some Hands-on Experience With
+## 🧠 Some Hands-on Experience With
 - **Large Language Models (LLMs)**, applying them to tasks such as medical imaging protocols understanding and artifact recognition.
 - Processing and analyzing real **Neuroscience Signals** from **functional Near-Infrared Spectroscopy (fNIRS)** recordings, aiming at basic brain activity exploration.
-
 
 
 I am highly motivated to contribute to innovative research projects, participate in interdisciplinary collaborations, and constantly expand my knowledge across the fields of control systems, artificial intelligence, and biomedical technologies.  
