@@ -3,7 +3,7 @@
 I'm a 10th-semester Biomedical Engineering student at the University of West Attica and an active member of the IEEE Student Branch.  
 My academic and professional journey revolves around research and development, primarily focusing on biomedical (and non-biomedical) control systems, optimization algorithms, mathematical modeling of dynamic real-world systems, and the application of computational intelligence techniques.
 
-Currently, I am working at Tzaneio General Hospital in Piraeus as a biomedical engineer, with a specialization in sleep study devices
+Currently, I am working at Tzaneio General Hospital in Piraeus as a biomedical engineer, with a specialization in sleep study devices.
 As the final stage of my undergraduate studies, I am currently undertaking my Thesis project, which centers on the development of advanced automatic control strategies and the application of computational intelligence methods for Artificial Pancreas Systems .
 
 
