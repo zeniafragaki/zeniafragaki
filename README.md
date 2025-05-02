@@ -1,18 +1,29 @@
 ## Hi there 👋
 
-I am 10th semester Biomedical Engineering student at University of West Attica and member of IEEE SB as well. I am really interested in research with primary topics biomedical (and non) control systems , optimization and mathematical modeling of real-world dynamic systems and computational intelligence techniques.Also , currently working on Tzaneio General Hospital as biomedical engineer and specific at sleep study devices part. As final part of my undergraduate studies I’m currently working on my Thesis project focused on automatic control and computational intelligence on Artificial Pancreas systems
+I'm a 10th-semester Biomedical Engineering student at the University of West Attica and an active member of the IEEE Student Branch.  
+My academic and professional journey revolves around research and development, primarily focusing on biomedical (and non-biomedical) control systems, optimization algorithms, mathematical modeling of dynamic real-world systems, and the application of computational intelligence techniques.Currently, I am working at Tzaneio General Hospital in Piraeus as a biomedical engineer, with a specialization in sleep study devices
+As the final stage of my undergraduate studies, I am currently undertaking my Thesis project, which centers on the development of advanced automatic control strategies and the application of computational intelligence methods for Artificial Pancreas Systems .
 
-My major areas of interest are
-- Control Systems Theory
-- Optimization (PSO / GA )
-- Signal Processing 
-- Mathematical Modeling
-- Designing digital sensors
-- Computation Intelligence 
+---
 
-Mostly working with
+## 🔬 Major Areas of Interest
+- Control Systems Theory and Applications
+- Optimization Techniques (Particle Swarm Optimization, Genetic Algorithms)
+- Signal Processing and Biomedical Signal Analysis
+- Mathematical Modeling of Dynamic Systems
+- Digital Sensor Design and Embedded Systems
+- Computational Intelligence and Machine Learning Applications in Healthcare
 
-- MATLAB and Simulink
-- Python
+---
+
+## 💻 Mostly Working With
+- MATLAB and Simulink for modeling, simulation, and control system design
+- Python for machine learning, data analysis
+- Familiarity with SQL, and AVR programming for embedded biomedical applications
+
+---
+
+I am highly motivated to contribute to innovative research projects, participate in interdisciplinary collaborations, and constantly expand my knowledge across the fields of control systems, artificial intelligence, and biomedical technologies.  
+Feel free to connect with me to discuss potential collaborations, research opportunities, or technology initiatives!
 
 
