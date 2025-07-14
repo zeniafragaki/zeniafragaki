@@ -1,4 +1,4 @@
-## Hi there 👋
+## Zenia Fragaki 
 
 I'm a 10th-semester Biomedical Engineering (M.Eng) student at the University of West Attica and an active member of the IEEE Student Branch.  
 My academic and professional journey revolves around research and development, primarily focusing on biomedical (and non-biomedical) control systems, optimization algorithms, mathematical modeling of dynamic real-world systems, and the application of computational intelligence techniques.
