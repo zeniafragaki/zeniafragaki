@@ -23,7 +23,7 @@ As the final stage of my undergraduate studies, I am currently undertaking my Di
 
 ## 🧠 Some Hands-on Experience With
 - **Large Language Models (LLMs)**, applying them to tasks such as medical imaging protocols understanding and artifact recognition.
-- Processing and analyzing real **Neuroscience Signals** from **functional Near-Infrared Spectroscopy (fNIRS)** recordings, aiming at basic brain activity exploration.
+- Processing and analyzing real **Neuroscience Signals** from **functional Near-Infrared Spectroscopy (fNIRS)** recordings, aiming at basic brain activity exploration for 𝐋𝐚𝐛𝐨𝐫𝐚𝐭𝐨𝐫𝐲 𝐨𝐟 𝐁𝐢𝐨𝐬𝐢𝐠𝐧𝐚𝐥 𝐀𝐜𝐪𝐮𝐢𝐬𝐢𝐭𝐢𝐨𝐧 & 𝐍𝐞𝐮𝐫𝐨𝐩𝐡𝐲𝐬𝐢𝐜𝐬 of UniWA , Biomedical Engineering Dept.
 
 
 I am highly motivated to contribute to innovative research projects, participate in interdisciplinary collaborations, and constantly expand my knowledge across the fields of control systems, artificial intelligence, and biomedical technologies.  
