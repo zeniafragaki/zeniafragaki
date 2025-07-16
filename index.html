@@ -2,137 +2,183 @@
 <html lang="en">
 <head>
   <meta charset="UTF-8" />
-  <meta name="viewport" content="width=device-width, initial-scale=1.0"/>
-  <title>Zenia Fragaki - CV</title>
+  <meta name="viewport" content="width=device-width, initial-scale=1.0" />
+  <title>Zenia Fragaki</title>
+  <link rel="preconnect" href="https://fonts.googleapis.com">
+  <link href="https://fonts.googleapis.com/css2?family=Inter:wght@400;600;800&display=swap" rel="stylesheet">
   <style>
-    body {
-      font-family: Arial, sans-serif;
+    :root {
+      --bg: #f9f9f9;
+      --text: #222;
+      --accent: #4361ee;
+    }
+
+    * {
       margin: 0;
       padding: 0;
-      background: #f5f5f5;
-      color: #333;
+      box-sizing: border-box;
     }
 
-    .container {
-      max-width: 900px;
-      margin: auto;
-      padding: 40px 20px;
+    body {
+      font-family: 'Inter', sans-serif;
+      background: var(--bg);
+      color: var(--text);
+      line-height: 1.6;
+    }
+
+    header {
+      height: 100vh;
+      display: flex;
+      flex-direction: column;
+      justify-content: center;
+      align-items: center;
       background: #fff;
+      text-align: center;
+      padding: 2rem;
     }
 
-    h1, h2 {
-      color: #003366;
+    header h1 {
+      font-size: 3rem;
+      font-weight: 800;
     }
 
-    h1 {
-      border-bottom: 2px solid #003366;
-      padding-bottom: 10px;
+    header p {
+      font-size: 1.2rem;
+      margin-top: 0.5rem;
     }
 
-    a {
-      color: #0066cc;
+    .icons {
+      margin-top: 1rem;
+    }
+
+    .icons a {
+      margin: 0 10px;
+      color: var(--accent);
       text-decoration: none;
+      font-weight: bold;
+      font-size: 1.2rem;
     }
 
-    a:hover {
-      text-decoration: underline;
+    section {
+      max-width: 900px;
+      margin: 4rem auto;
+      padding: 0 1rem;
     }
 
-    .section {
-      margin-top: 40px;
+    h2 {
+      font-size: 2rem;
+      border-bottom: 2px solid var(--accent);
+      display: inline-block;
+      margin-bottom: 1rem;
     }
 
-    ul {
-      padding-left: 20px;
+    .grid {
+      display: grid;
+      grid-template-columns: repeat(auto-fit, minmax(280px, 1fr));
+      gap: 1.5rem;
     }
 
-    .contact {
-      margin-top: 10px;
-      font-size: 0.95em;
-      color: #666;
+    .card {
+      background: white;
+      padding: 1rem 1.5rem;
+      border-radius: 8px;
+      box-shadow: 0 4px 12px rgba(0, 0, 0, 0.06);
+    }
+
+    .footer {
+      text-align: center;
+      padding: 2rem 0;
+      font-size: 0.9rem;
+      color: #999;
+    }
+
+    @media (max-width: 600px) {
+      header h1 {
+        font-size: 2rem;
+      }
     }
   </style>
 </head>
 <body>
-  <div class="container">
-    <h1>Sosanna Anastasia (Zenia) Fragaki</h1>
-    <p><strong>Biomedical Engineering Student | Software Engineer | IEEE Member</strong></p>
-    <div class="contact">
-      Piraeus, Greece | 📧 <a href="mailto:zeniafragkaki@gmail.com">zeniafragkaki@gmail.com</a> |
-      🎓 <a href="mailto:BME20388126@uniwa.gr">BME20388126@uniwa.gr</a><br/>
-      📞 +30 6930408787 | <a href="https://www.linkedin.com/in/zenia-fragaki/">LinkedIn</a> |
-      <a href="https://github.com/zeniafragaki">GitHub</a>
-    </div>
 
-    <div class="section">
-      <h2>🧪 Work Experience</h2>
-      <ul>
-        <li><strong>Biomedical Engineer</strong> @ Tzaneio General Hospital, Piraeus (09/2023–Present)<br/>
-        Sleep study devices engineer: installation, maintenance & troubleshooting (PSG systems).</li>
-        <li><strong>Jr. Research Assistant – Neurocomputing</strong> @ UNIWA (05/2025–Present)<br/>
-        Research in computational intelligence for neural signals.</li>
-        <li><strong>Teaching Assistant</strong> – Intro to Neurocomputing (10/2025–Present)<br/>
-        Developed teaching material and MATLAB tools on signal processing & machine learning.</li>
-        <li><strong>IEEE Software Engineer</strong> (01/2024–06/2025)<br/>
-        - MRI artifact recognition tool & website for maternal care in Ethiopia.</li>
-      </ul>
+  <header>
+    <h1>Zenia Fragaki</h1>
+    <p>Biomedical Engineer • Researcher • Developer</p>
+    <div class="icons">
+      <a href="https://github.com/zeniafragaki" target="_blank">GitHub</a>
+      <a href="https://linkedin.com/in/zenia-fragaki" target="_blank">LinkedIn</a>
+      <a href="mailto:zeniafragkaki@gmail.com">Email</a>
     </div>
+  </header>
 
-    <div class="section">
-      <h2>🎓 Education</h2>
-      <ul>
-        <li><strong>MEng Biomedical Engineering</strong> – UNIWA (2020–Present)<br/>
-        Thesis: “Control Schemes for Artificial Pancreas Systems using Neural Networks”</li>
-        <li><strong>Workshop:</strong> Fundamentals of Deep Learning – NVIDIA DLI (03/2025)</li>
-        <li><strong>Summer School:</strong> HIAS AI – NCSR Demokritos (07/2024)</li>
-        <li><strong>HarvardX Online Course:</strong> Quantitative Methods of Biology (06/2023)</li>
-        <li><strong>High School:</strong> 9th Lyceum of Piraeus (Grade: 18.9/20)</li>
-      </ul>
-    </div>
+  <section>
+    <h2>About Me</h2>
+    <p>I’m a biomedical engineering student and junior researcher at UNIWA. My work focuses on computational intelligence, medical AI, and biosignal processing. I enjoy working at the intersection of technology, medicine, and innovation.</p>
+  </section>
 
-    <div class="section">
-      <h2>🧠 Skills</h2>
-      <ul>
-        <li><strong>Programming:</strong> Python, MATLAB, C++, MySQL, AVR</li>
-        <li><strong>ML & AI:</strong> TensorFlow, PyTorch, Scikit-learn, Transformers</li>
-        <li><strong>Data Analysis:</strong> Pandas, NumPy, SPSS, MATLAB</li>
-        <li><strong>Robotics:</strong> PSO, GA, Control Systems</li>
-      </ul>
+  <section>
+    <h2>Experience</h2>
+    <div class="grid">
+      <div class="card">
+        <h3>Biomedical Engineer</h3>
+        <p><strong>Tzaneio Hospital</strong>, Piraeus<br>2023–Present</p>
+        <p>Responsible for installation, maintenance & support of sleep study diagnostic systems (PSG).</p>
+      </div>
+      <div class="card">
+        <h3>Research Assistant (Neurocomputing)</h3>
+        <p><strong>UNIWA</strong> – Bionics Lab<br>2025–Present</p>
+        <p>Signal processing & AI algorithms applied to brain signals using MATLAB & Python.</p>
+      </div>
+      <div class="card">
+        <h3>IEEE Software Engineer</h3>
+        <p><strong>IEEE Student Branch</strong><br>2024–2025</p>
+        <p>LLM for MRI protocol learning & platform for maternal care in Ethiopia.</p>
+      </div>
     </div>
+  </section>
 
-    <div class="section">
-      <h2>🏆 Achievements</h2>
-      <ul>
-        <li>Submitted proposal to Meta Llama 3.1 Impact Grants (2025)</li>
-        <li>3rd Place – NASA Space Apps Challenge Greece (2024)</li>
-        <li>2× National Champion in Water Polo, 3× 2nd Place, 1× 3rd Place</li>
-      </ul>
-    </div>
+  <section>
+    <h2>Skills</h2>
+    <p><strong>Languages:</strong> Python, MATLAB, C++, SQL</p>
+    <p><strong>Tools:</strong> TensorFlow, PyTorch, Simulink, Git</p>
+    <p><strong>Focus:</strong> NeuroAI, Signal Processing, Control Systems, ML/AI</p>
+  </section>
 
-    <div class="section">
-      <h2>📚 Publications & Presentations</h2>
-      <ul>
-        <li><strong>Conference Paper:</strong> Fragaki et al. (2025), Artificial Pancreas Control (DOI: <a href="https://doi.org/10.5281/zenodo.15877608">10.5281/zenodo.15877608</a>)</li>
-        <li><strong>Workshops:</strong> IEEE BME Workshop (Simulink & Control), IEEE Day (MRIProLearn Demo)</li>
-      </ul>
+  <section>
+    <h2>Projects</h2>
+    <div class="grid">
+      <div class="card">
+        <h3>Brain Tumor Classifier</h3>
+        <p>ML model distinguishing low vs. high-grade tumors.</p>
+        <a href="https://github.com/zeniafragaki/Brain-tumor-discrimination-low-or-high-grade" target="_blank">View on GitHub →</a>
+      </div>
+      <div class="card">
+        <h3>Artificial Pancreas Control</h3>
+        <p>Neural network + PID control system in MATLAB Simulink.</p>
+        <a href="https://github.com/zeniafragaki/artificial-pancreas-schemes" target="_blank">View on GitHub →</a>
+      </div>
     </div>
+  </section>
 
-    <div class="section">
-      <h2>🤝 Volunteering</h2>
-      <ul>
-        <li>IEEE Git/GitHub Workshop (2024)</li>
-        <li>18th IEEEXtreme | GRCPC Programming Contest | IEEE SB Events</li>
-      </ul>
-    </div>
+  <section>
+    <h2>Education</h2>
+    <p><strong>Biomedical Engineering</strong> @ UNIWA (2020–)</p>
+    <p>Workshops: NVIDIA DLI, HIAS AI School, HarvardX</p>
+    <p>Thesis: Advanced control schemes for artificial pancreas systems</p>
+  </section>
 
-    <div class="section">
-      <h2>💼 Project Portfolio</h2>
-      <ul>
-        <li><a href="https://github.com/zeniafragaki/Brain-tumor-discrimination-low-or-high-grade">Brain Tumor Classification (Python)</a></li>
-        <li><a href="https://github.com/zeniafragaki/DSS-benign-vs-malignant">Benign vs Malignant Classifier (Python)</a></li>
-        <li><a href="https://github.com/zeniafragaki/artificial-pancreas-schemes">Artificial Pancreas Control (MATLAB)</a></li>
-      </ul>
-    </div>
+  <section>
+    <h2>Awards</h2>
+    <ul>
+      <li>3rd Place – NASA Space Apps Greece (2024)</li>
+      <li>Meta LLaMA Impact Grant submission (2025)</li>
+      <li>National Water Polo Champion (2x gold, 3x silver, 1x bronze)</li>
+    </ul>
+  </section>
+
+  <div class="footer">
+    &copy; 2025 Zenia Fragaki. Made with ♥
   </div>
+
 </body>
 </html>
