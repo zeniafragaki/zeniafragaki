@@ -29,6 +29,8 @@ As the final stage of my undergraduate studies, I am currently undertaking my Di
 I am highly motivated to contribute to innovative research projects, participate in interdisciplinary collaborations, and constantly expand my knowledge across the fields of control systems, artificial intelligence, and biomedical technologies.  
 
 📧:zeniafragkaki@gmail.com or bme20388126@uniwa.gr
+
+
 🔗: https://www.linkedin.com/in/zenia-fragaki/
 
 
