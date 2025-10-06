@@ -19,8 +19,9 @@ As the final stage of my undergraduate studies, I am currently undertaking my Di
 ## 💻 Mostly Working With
 - MATLAB and Simulink for modeling, simulation, and control system design
 - Python for machine learning, data analysis
-- Familiarity with SQL, and AVR programming for embedded biomedical applications
+- Familiarity with SQL, and AVR programming for embedded applications
 
+  
 ## 🧠 Some Hands-on Experience With
 - **Large Language Models (LLMs)**, applying them to tasks such as medical imaging protocols understanding and artifact recognition.
 - Processing and analyzing real **Neuroscience Signals** from **functional Near-Infrared Spectroscopy (fNIRS)** recordings, aiming at basic brain activity exploration for 𝐋𝐚𝐛𝐨𝐫𝐚𝐭𝐨𝐫𝐲 𝐨𝐟 𝐁𝐢𝐨𝐬𝐢𝐠𝐧𝐚𝐥 𝐀𝐜𝐪𝐮𝐢𝐬𝐢𝐭𝐢𝐨𝐧 & 𝐍𝐞𝐮𝐫𝐨𝐩𝐡𝐲𝐬𝐢𝐜𝐬 of UniWA , Biomedical Engineering Dept.
