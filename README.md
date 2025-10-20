@@ -13,7 +13,7 @@ As the final stage of my undergraduate studies, I am currently undertaking my Di
 - Signal Processing and Biomedical Signal Analysis
 - Mathematical Modeling of Dynamic Systems
 - Digital Sensor Design and Embedded Systems
-- Computational Intelligence and Machine Learning Applications in Healthcare (Neural Networks , Neural controllers,Hybrid systems)
+- Computational Intelligence and Machine Learning Applications  (Neural Networks , Neural controllers,Hybrid systems)
 
 
 ## 💻 Mostly Working With
