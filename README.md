@@ -9,6 +9,7 @@ As the final stage of my undergraduate studies, I am currently undertaking my Di
 
 ## 🔬 Major Areas of Interest
 - Control Systems Theory and Applications
+- Predictive Control
 - Optimization Techniques (Particle Swarm Optimization, Genetic Algorithms)
 - Signal Processing and Biomedical Signal Analysis
 - Mathematical Modeling of Dynamic Systems
