@@ -18,9 +18,9 @@ As the final stage of my undergraduate studies, I am currently undertaking my Di
 
 
 ## 💻 Mostly Working With
-- MATLAB and Simulink for modeling, simulation, and control system design
-- Python for machine learning, data analysis
-- Familiarity with SQL, and AVR programming for embedded applications
+- MATLAB and Simulink 
+- Python 
+- SQL, and AVR programming for embedded applications
 
   
 ## 🧠 Some Hands-on Experience With
