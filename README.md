@@ -4,7 +4,7 @@ I'm a recent graduate Biomedical Engineering (M.Eng) dept. at the University of 
 My academic and professional journey revolves around research and development, primarily focusing on biomedical (and non-biomedical) control systems, optimization algorithms, mathematical modeling of dynamic real-world systems, and the application of computational intelligence techniques.
 
 Currently, I am working at Tzaneio General Hospital in Piraeus as a biomedical engineer, with a specialization in sleep study devices.
-As the final stage of my undergraduate studies, I am currently undertaking my Diploma Thesis project, which centers on the development of advanced automatic control strategies and the application of computational intelligence methods for Artificial Pancreas Systems .
+My Diploma Thesis project,  centers on the development of advanced automatic control strategies and the application of computational intelligence methods for Artificial Pancreas Systems .
 
 
 ## 🔬 Major Areas of Interest
