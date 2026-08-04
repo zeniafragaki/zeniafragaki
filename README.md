@@ -1,10 +1,14 @@
-## Zenia Fragaki 
+## Zenia Fragaki
 
-I'm a recent graduate Biomedical Engineering (M.Eng) dept. at the University of West Attica and former member of the IEEE Student Branch.  
-My academic and professional journey revolves around research and development, primarily focusing on biomedical (and non-biomedical) control systems, optimization algorithms, mathematical modeling of dynamic real-world systems, and the application of computational intelligence techniques.
+Ph.D. Candidate in **Computational Intelligence and Control Systems** at the **Department of Electrical and Electronics Engineering, University of West Attica (UNIWA)**.
 
-Currently, I am working at Tzaneio General Hospital in Piraeus as a biomedical engineer, with a specialization in sleep study devices.
-My Diploma Thesis project,  centers on the development of advanced automatic control strategies and the application of computational intelligence methods for Artificial Pancreas Systems. You can have fully access to the text at: https://polynoe.lib.uniwa.gr/xmlui/handle/11400/11763
+Biomedical Engineer at **Tzaneio General Hospital**, specializing in sleep study devices.
+
+My research focuses on computational intelligence, automatic control, optimization algorithms, mathematical modeling of dynamic systems, machine learning, and Artificial Pancreas systems.
+
+**Diploma Thesis:** *Development of Control and Advanced Control Schemes for Artificial Pancreas Systems*
+https://polynoe.lib.uniwa.gr/xmlui/handle/11400/11763
+
 
 
 ## 🔬 Major Areas of Interest
