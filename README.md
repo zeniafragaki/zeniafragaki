@@ -17,9 +17,7 @@ https://polynoe.lib.uniwa.gr/xmlui/handle/11400/11763
 - Optimization Techniques (Particle Swarm Optimization, Genetic Algorithms)
 - Signal Processing and Biomedical Signal Analysis
 - Mathematical Modeling of Dynamic Systems
-- Digital Sensor Design and Embedded Systems
-- Computational Intelligence and Machine Learning Applications  (Neural Networks , Neural controllers,Hybrid systems)
-
+- Computational Intelligence and Machine Learning Applications  
 
 ## 💻 Mostly Working With
 - MATLAB and Simulink 
